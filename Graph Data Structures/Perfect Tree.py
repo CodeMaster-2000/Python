@@ -1,7 +1,5 @@
 ##==========================================================================
-## Swethan Sivasegaran (20798865)
-## CS 234 Spring 2023
-## Assignment 3 Question 1
+## Swethan Sivasegaran
 ##==========================================================================
 from stackqueue import Stack, Queue
 from tree import OrderedTree
